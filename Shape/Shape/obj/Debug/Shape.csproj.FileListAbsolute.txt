@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Shape\Shape\bin\Debug\Shape.exe.config
+D:\Visual Studio\Projects\Shape\Shape\bin\Debug\Shape.exe
+D:\Visual Studio\Projects\Shape\Shape\bin\Debug\Shape.pdb
+D:\Visual Studio\Projects\Shape\Shape\obj\Debug\Shape.exe
+D:\Visual Studio\Projects\Shape\Shape\obj\Debug\Shape.pdb
+D:\Visual Studio\Projects\Shape\Shape\obj\Debug\Shape.csprojResolveAssemblyReference.cache

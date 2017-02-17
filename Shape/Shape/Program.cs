@@ -75,6 +75,8 @@ namespace Shape
 
         }
 
+        //Each of these tests will hane one with x,y = int,int and another x,y, not passed
+
         static void TestTriangle()
         {
             //   Triangle t = new Triangle();
@@ -123,7 +125,7 @@ namespace Shape
 
         static void TestQuadrilateral()
         {
-            // can not instanciate an abstract class
+            // Can't instanciate an abstract class
             Console.WriteLine("Can't instantiate an abstract class.");
         }
 
@@ -227,6 +229,8 @@ namespace Shape
 
         }
 
+
+        // Check to see if any of the returned numbers are passing anything different than what we expected
         static void Check(double actual, double expected)
         {
             if(Math.Abs(actual - expected) > 0.001)
